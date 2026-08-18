@@ -16,6 +16,8 @@ const projects = [
       "Scikit-learn",
       "Matplotlib",
       "Seaborn",
+      "FastAPI",
+      "Pydantic"
     ],
 
     type: "Machine Learning",
