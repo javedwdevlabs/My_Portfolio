@@ -366,7 +366,8 @@ function MentalHealthScore() {
               hover:bg-[var(--color-primary-hover)]
             "
           >
-            View Project on GitHub
+            <a href="https://github.com/javedwdevlabs/Mental-Wellness-Assessment" target="_blank"> View Project on GitHub </a>
+           
             <span>→</span>
           </motion.a>
         </motion.div>
