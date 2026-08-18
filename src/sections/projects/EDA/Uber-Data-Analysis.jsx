@@ -1,4 +1,5 @@
 import { motion } from "motion/react";
+import { Link } from "react-router-dom";
 
 function UBER_EDA() {
   return (
@@ -371,8 +372,9 @@ function UBER_EDA() {
               hover:bg-[var(--color-primary-hover)]
             "
           >
-            View on GitHub
-            <span>↗</span>
+<a href="https://github.com/javedwdevlabs/EDA-Analysis/tree/main/UBER" target="_blank" rel="noopener noreferrer">
+  View on GitHub
+</a>            <span>↗</span>
           </motion.a>
         </motion.div>
 
